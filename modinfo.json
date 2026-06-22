@@ -1,0 +1,10 @@
+{
+    "id": "DLCFIX",
+    "name": "DLC loader fix",
+    "version": "1.0",
+
+
+    "description": "small patch for re-enableing of the detection of the installed DLCs by the mod manager",
+	"config": true
+
+}
